@@ -16,8 +16,14 @@ Output: File, all array elements sorted within given range, serpareted by newlin
 I called it hybridsort for purposes of testing.
 ```
 
+### [Comparing hybridsort to quicksort][HybTest]
+```
+Testing time efficiency of hybridsort(improved qs by cutting off with bblsort) and quicksort.
+```
+
 
 
 [MIN heapsort withitn range of x,y]: https://github.com/SzymonSzymonowicz/Java_Algorithms/blob/master/MinHeapSortWithinRange.java
 [Qs]: https://github.com/SzymonSzymonowicz/Java_Algorithms/blob/master/Quick.java
 [QsBbl]: https://github.com/SzymonSzymonowicz/Java_Algorithms/blob/master/Hybrid.java
+[HybTest]: https://github.com/SzymonSzymonowicz/Java_Algorithms/blob/master/HybridTest.java
