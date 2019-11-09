@@ -9,9 +9,9 @@ Input: File, from which two first ints are the range, the rest is the array valu
 Output: File, all array elements sorted within given range, serpareted by newlines.
 ```
 
-### [Quicksort]
+### [Quicksort][Qs]
 
-### [Quicksort improved by cutting off with bubblesort]
+### [Quicksort improved by cutting off with bubblesort][QsBbl]
 ```
 I called it hybridsort for purposes of testing.
 ```
@@ -19,3 +19,5 @@ I called it hybridsort for purposes of testing.
 
 
 [MIN heapsort withitn range of x,y]: https://github.com/SzymonSzymonowicz/Java_Algorithms/blob/master/MinHeapSortWithinRange.java
+[Qs]: https://github.com/SzymonSzymonowicz/Java_Algorithms/blob/master/Quick.java
+[QsBbl]: https://github.com/SzymonSzymonowicz/Java_Algorithms/blob/master/Hybrid.java
