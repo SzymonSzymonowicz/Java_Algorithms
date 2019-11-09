@@ -13,7 +13,7 @@ Output: File, all array elements sorted within given range, serpareted by newlin
 
 ### [Quicksort improved by cutting off with bubblesort]
 ```
-place holder
+I called it hybridsort for purposes of testing.
 ```
 
 
