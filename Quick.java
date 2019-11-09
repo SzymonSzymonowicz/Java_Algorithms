@@ -20,7 +20,7 @@ public class Quick {
         if (i<r)
             return i;
         else
-            return (i - 1);
+            return i - 1;
     }
 
     public static void Quicksort(int[] A, int p, int r){
